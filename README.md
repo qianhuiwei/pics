@@ -1,6 +1,6 @@
 # Pics
 
-This is a simple React app that allows the user search images by typing some keywords.
+This is a simple React app that allows the user search images by typing some keywords.<br />
 This app demonstrates how to implement the following tasks in React:
 * User input & event handling.
 * Fetch data from an API.
